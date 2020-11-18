@@ -28,4 +28,4 @@ npm run serve
 
 Run `npm i` or `npm install` and run using one of the commands above.
 
-_In case if You want use just `webpack.config.js` note that you **must have** `src` folder in the root and `index.html` and `index.js` inside it_
+_In case if You want use just `webpack.config.js` note that you **must have** `src` folder in the root with `index.html` and `index.js` inside it_
