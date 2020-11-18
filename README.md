@@ -12,7 +12,7 @@ There are available 3 types of modes:
 npm run build
 ```
 
-2. Deveopment
+2. Development
 
 ```
 npm run dev
