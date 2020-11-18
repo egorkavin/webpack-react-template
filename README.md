@@ -18,7 +18,7 @@ npm run build
 npm run dev
 ```
 
-3. Local server with deveopment mode
+3. Local server with development mode
 
 ```
 npm run serve
